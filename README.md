@@ -1,20 +1,13 @@
-## Hi there 👋
+## Hi there Iam Tuhu Pangestu👋
 
-<!--
-**tuhu02/tuhu02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+- 🔭 I’m currently working on web development projects
+- 🌱 I’m currently learning React and modern frontend development
+- 👯 I’m looking to collaborate on small web or open-source projects
+- 🤔 I’m looking for help with improving React and responsive UI design
+- 💬 Ask me about HTML, CSS, Tailwind CSS, and basic React
+- 📫 How to reach me: GitHub Issues or email
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I enjoy turning designs into real websites
 
 
 ## 🌐 Socials:
