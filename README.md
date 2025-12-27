@@ -1,4 +1,4 @@
-## Hi there Iam Tuhu Pangestu👋
+## Hi there iam Tuhu Pangestu👋
 
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning React and modern frontend development
