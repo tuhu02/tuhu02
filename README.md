@@ -1,4 +1,4 @@
-## 안녕하세요, 투후 팡에스투(Tuhu Pangestu)입니다 👋
+## 안녕하세요, 투후 팡에스투 입니다 👋
 
 - 🔭 I’m currently working on web development projects
 - 🌱 I’m currently learning React and modern frontend development
